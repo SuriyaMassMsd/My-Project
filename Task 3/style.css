@@ -1,0 +1,268 @@
+.navbar-nav >li{
+   margin-left: 30px;
+   margin-right: 30px;
+   
+}
+
+.navbar-nav >ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-nav >li:hover{
+    
+    background-color: blueviolet;
+    
+}
+
+
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: white;   
+}
+.navbar-brand:hover{
+    color: blueviolet;
+}
+
+.carousel-item{
+   height: 480px;
+}
+
+.carousel-img{
+ 
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+
+}
+
+.carousel-caption >p {
+    font-family: cursive;
+    color: rgb(255, 251, 0);
+    font-style: italic;
+    font-size: small;
+
+}
+
+.carousel-caption >p:hover{
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+.carousel-caption >h1{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.carousel-2 >h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: rgb(255, 153, 0);
+}
+
+.carousel-2 >h1:hover{
+    color: white;
+}
+
+.carousel-2 >p{
+    color: azure;
+    font-style: italic;
+
+}
+
+.carousel-2 >p:hover{
+    color: blue;
+}
+
+.card_header{
+    color: rgb(76, 0, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600px;
+   
+}
+
+#about{
+    width: 100%;
+    height: 100vh;
+}
+
+.container{
+    padding-top: 10px;
+}
+.heading{
+     font-size: 50px;
+     margin-bottom: 50px;
+     text-align: center;
+     color: rgb(0, 0, 0);
+     font-weight: bold;
+    }
+.card >img{
+
+    width:550px;
+    height: 450px;
+    float: right;
+    justify-content: right;
+    
+}
+
+.about_text{
+    position: relative;
+    text-align: center;
+    margin-top: 125px;
+}
+
+.about_text >h3{
+    font-size: 45px;
+}
+
+.about_text >p{
+    font-size: 20px;
+    color: gray;
+}
+
+.heading_cards{
+    text-align: center;
+}
+
+.text >h1{
+    position: relative;
+    color: rgb(0, 0, 0);
+}
+
+.text >p{
+
+    font-weight:bold;
+    color: gray;
+}
+
+.card_1{
+    margin-left: 40px;
+}
+
+.card-title{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.card-text {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(132, 0, 255);
+    background-color: aqua;
+    border-radius: 5px;
+    border-bottom-color: black ;
+}
+
+.btn{
+    margin-left: 15px;
+    padding-left: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+.card_1{
+
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    border-bottom-color: black ;
+    
+    
+}
+
+.card_2{
+
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 106);
+    border-radius: 5px;
+    border-bottom-color: black ;
+    
+    margin-left: 30%;
+}
+
+.card_3{
+    bottom: 290px;
+    margin-left: 55%;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 102, 0);
+    border-radius: 5px;
+    border-bottom-color: rgb(201, 101, 101) ;
+    
+
+}
+
+.card_4{
+    bottom: 290px;
+    float: right;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 119);
+    border-radius: 5px;
+    border-bottom-color: black ;
+    
+    margin-left: 30%;
+}
+
+.head_1{
+
+    margin-left: 395px ;
+      text-align: center;
+    color: rgb(235, 0, 0);
+    font-weight: bold;
+}
+.testn {
+    background-color: rgb(93, 161, 135);
+    
+  }
+.testM {
+    background-color: beige;
+    
+  }
+  .testM p {
+    margin: 20px;
+    padding: 20px;
+  }
+  .testimonial h2 {
+    color: white;
+  }
+
+  .img_1{
+   width: 200px;
+   height: 180px;
+  }
+  .img_2{
+    height: 200px;
+    width: 190px;
+  }
+  .img_3{
+    height: 200px;
+    width: 180px;
+  }
+
+  .deep_p{
+    font-weight: bold;
+  }
+
+
+  .contactUs h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  .input-box {
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    width: 420px;
+  }
+
+  
